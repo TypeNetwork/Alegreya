@@ -82,7 +82,7 @@
       <integer>60</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
-    <integer>202</integer>
+    <integer>-202</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>75</integer>
     <key>styleName</key>
