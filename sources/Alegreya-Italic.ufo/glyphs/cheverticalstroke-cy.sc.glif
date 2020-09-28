@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cheverticalstroke-cy.sc" format="2">
   <advance width="515"/>
-  <anchor x="246" y="250" name="_center"/>
   <outline>
     <contour>
       <point x="442" y="-2" type="curve"/>

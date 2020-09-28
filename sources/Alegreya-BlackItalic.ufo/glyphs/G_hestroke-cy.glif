@@ -2,7 +2,6 @@
 <glyph name="Ghestroke-cy" format="2">
   <advance width="571"/>
   <unicode hex="0492"/>
-  <anchor x="247" y="312" name="_center"/>
   <outline>
     <contour>
       <point x="4" y="-10" type="line"/>

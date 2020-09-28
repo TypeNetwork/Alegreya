@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghestroke-cy.sc" format="2">
   <advance width="506"/>
-  <anchor x="212" y="242" name="_center"/>
   <outline>
     <contour>
       <point x="32" y="-7" type="line"/>
