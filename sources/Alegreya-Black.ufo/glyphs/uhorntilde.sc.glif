@@ -3,7 +3,7 @@
   <advance width="557"/>
   <outline>
     <component base="uhorn.sc"/>
-    <component base="tilde" xOffset="72" yOffset="41"/>
+    <component base="tildecomb" xOffset="72" yOffset="41"/>
   </outline>
   <lib>
     <dict>

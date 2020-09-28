@@ -4,7 +4,7 @@
   <anchor x="243" y="636" name="_top"/>
   <anchor x="226" y="673" name="_topleft"/>
   <outline>
-    <component base="tilde"/>
+    <component base="tildecomb"/>
   </outline>
   <lib>
     <dict>
