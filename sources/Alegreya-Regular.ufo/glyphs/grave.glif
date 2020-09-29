@@ -3,14 +3,22 @@
   <advance width="398"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="gravecomb"/>
+    <contour>
+      <point x="240" y="521" type="curve"/>
+      <point x="249" y="523" type="line"/>
+      <point x="269" y="542" type="line"/>
+      <point x="197" y="620"/>
+      <point x="119" y="714"/>
+      <point x="119" y="714" type="curve"/>
+      <point x="109" y="712" type="line"/>
+      <point x="71" y="671" type="line"/>
+      <point x="72" y="660" type="line"/>
+      <point x="72" y="660"/>
+      <point x="156" y="597"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

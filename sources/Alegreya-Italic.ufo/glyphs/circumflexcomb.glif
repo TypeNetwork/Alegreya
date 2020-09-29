@@ -4,25 +4,7 @@
   <anchor x="214" y="452" name="_top"/>
   <anchor x="242" y="683" name="top"/>
   <outline>
-    <contour>
-      <point x="91" y="530" type="curve"/>
-      <point x="103" y="508" type="line"/>
-      <point x="112" y="507" type="line"/>
-      <point x="112" y="507"/>
-      <point x="241" y="604"/>
-      <point x="241" y="604" type="curve"/>
-      <point x="241" y="604"/>
-      <point x="346" y="507"/>
-      <point x="346" y="507" type="curve"/>
-      <point x="355" y="508" type="line"/>
-      <point x="372" y="530" type="line"/>
-      <point x="372" y="530"/>
-      <point x="257" y="683"/>
-      <point x="257" y="683" type="curve"/>
-      <point x="243" y="683" type="line"/>
-      <point x="243" y="683"/>
-      <point x="91" y="530"/>
-    </contour>
+    <component base="circumflex"/>
   </outline>
   <lib>
     <dict>

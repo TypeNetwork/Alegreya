@@ -3,14 +3,35 @@
   <advance width="356"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="hungarumlautcomb"/>
+    <contour>
+      <point x="250" y="655" type="curve"/>
+      <point x="252" y="664" type="line"/>
+      <point x="219" y="702" type="line"/>
+      <point x="210" y="705" type="line"/>
+      <point x="210" y="705"/>
+      <point x="136" y="622"/>
+      <point x="70" y="554" type="curve"/>
+      <point x="86" y="536" type="line"/>
+      <point x="95" y="534" type="line"/>
+      <point x="174" y="600"/>
+      <point x="250" y="655"/>
+    </contour>
+    <contour>
+      <point x="378" y="655" type="curve"/>
+      <point x="380" y="664" type="line"/>
+      <point x="347" y="702" type="line"/>
+      <point x="338" y="705" type="line"/>
+      <point x="338" y="705"/>
+      <point x="264" y="622"/>
+      <point x="198" y="554" type="curve"/>
+      <point x="214" y="536" type="line"/>
+      <point x="223" y="534" type="line"/>
+      <point x="302" y="600"/>
+      <point x="378" y="655"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>
