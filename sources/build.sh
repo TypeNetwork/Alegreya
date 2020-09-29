@@ -12,14 +12,14 @@ rm -rf ../fonts
 echo "Generating Static fonts"
 mkdir -p ../fonts
 fontmake -m Alegreya.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Alegreya_Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m Alegreya-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Alegreya.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Alegreya_Italic.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Alegreya-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
 fontmake -m Alegreya.designspace -o variable --output-path ../fonts/variable/Alegreya[wght].ttf
-fontmake -m Alegreya_Italic.designspace -o variable --output-path ../fonts/variable/Alegreya-Italic[wght].ttf
+fontmake -m Alegreya-Italic.designspace -o variable --output-path ../fonts/variable/Alegreya-Italic[wght].ttf
 
 rm -rf master_ufo/
 rm -rf instance_ufo/
