@@ -1740,6 +1740,8 @@
     <string>dieresiscomb_acutecomb.case.glif</string>
     <key>dieresiscomb_acutecomb.loclGREK</key>
     <string>dieresiscomb_acutecomb.loclG_R_E_K_.glif</string>
+    <key>dieresiscomb_acutecomb.loclGREK.alt</key>
+    <string>dieresiscomb_acutecomb.loclG_R_E_K_.alt.glif</string>
     <key>dieresiscomb_caroncomb</key>
     <string>dieresiscomb_caroncomb.glif</string>
     <key>dieresiscomb_gravecomb</key>
