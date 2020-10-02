@@ -1220,6 +1220,8 @@
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
+    <key>acutecomb.loclGREK</key>
+    <string>acutecomb.loclG_R_E_K_.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
     <key>adblgrave.sc</key>
@@ -1620,8 +1622,24 @@
     <string>colonsign.B_R_A_C_K_E_T_.75.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>commaabovecomb</key>
+    <string>commaabovecomb.glif</string>
+    <key>commaabovecomb_acutecomb.loclGREK</key>
+    <string>commaabovecomb_acutecomb.loclG_R_E_K_.glif</string>
+    <key>commaabovecomb_gravecomb.loclGREK</key>
+    <string>commaabovecomb_gravecomb.loclG_R_E_K_.glif</string>
+    <key>commaabovecomb_perispomenicomb</key>
+    <string>commaabovecomb_perispomenicomb.glif</string>
     <key>commaaccentcomb</key>
     <string>commaaccentcomb.glif</string>
+    <key>commareversedabovecomb</key>
+    <string>commareversedabovecomb.glif</string>
+    <key>commareversedabovecomb_acutecomb.loclGREK</key>
+    <string>commareversedabovecomb_acutecomb.loclG_R_E_K_.glif</string>
+    <key>commareversedabovecomb_gravecomb.loclGREK</key>
+    <string>commareversedabovecomb_gravecomb.loclG_R_E_K_.glif</string>
+    <key>commareversedabovecomb_perispomenicomb</key>
+    <string>commareversedabovecomb_perispomenicomb.glif</string>
     <key>commaturnedabovecomb</key>
     <string>commaturnedabovecomb.glif</string>
     <key>commaturnedmod</key>
@@ -1710,6 +1728,8 @@
     <string>dialytikavaria.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
+    <key>dieresis_gravecomb.loclGREK</key>
+    <string>dieresis_gravecomb.loclG_R_E_K_.glif</string>
     <key>dieresisbelowcomb</key>
     <string>dieresisbelowcomb.glif</string>
     <key>dieresiscomb</key>
@@ -1722,6 +1742,8 @@
     <string>dieresiscomb_acutecomb.glif</string>
     <key>dieresiscomb_acutecomb.case</key>
     <string>dieresiscomb_acutecomb.case.glif</string>
+    <key>dieresiscomb_acutecomb.loclGREK</key>
+    <string>dieresiscomb_acutecomb.loclG_R_E_K_.glif</string>
     <key>dieresiscomb_caroncomb</key>
     <string>dieresiscomb_caroncomb.glif</string>
     <key>dieresiscomb_gravecomb</key>
@@ -1730,6 +1752,8 @@
     <string>dieresiscomb_macroncomb.glif</string>
     <key>dieresiscomb_macroncomb.case</key>
     <string>dieresiscomb_macroncomb.case.glif</string>
+    <key>dieresiscomb_perispomenicomb</key>
+    <string>dieresiscomb_perispomenicomb.glif</string>
     <key>dieresistonos</key>
     <string>dieresistonos.glif</string>
     <key>divide</key>
@@ -2334,6 +2358,8 @@
     <string>gravecomb.glif</string>
     <key>gravecomb.case</key>
     <string>gravecomb.case.glif</string>
+    <key>gravecomb.loclGREK</key>
+    <string>gravecomb.loclG_R_E_K_.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>greaterequal</key>
