@@ -2,7 +2,6 @@
 <glyph name="dialytikaperispomeni" format="2">
   <advance width="458"/>
   <unicode hex="1FC1"/>
-  <anchor x="226" y="472" name="_top"/>
   <outline>
     <contour>
       <point x="312" y="518" type="curve" smooth="yes"/>

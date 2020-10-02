@@ -2,8 +2,6 @@
 <glyph name="dasiaoxia" format="2">
   <advance width="458"/>
   <unicode hex="1FDE"/>
-  <anchor x="226" y="472" name="_top"/>
-  <anchor x="249" y="765" name="top"/>
   <outline>
     <contour>
       <point x="327" y="508" type="line"/>

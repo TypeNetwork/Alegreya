@@ -2,8 +2,6 @@
 <glyph name="dasiavaria" format="2">
   <advance width="416"/>
   <unicode hex="1FDD"/>
-  <anchor x="225" y="472" name="_top"/>
-  <anchor x="255" y="761" name="top"/>
   <outline>
     <contour>
       <point x="337" y="509" type="line"/>

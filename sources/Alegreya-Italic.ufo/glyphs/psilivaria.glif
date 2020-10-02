@@ -4,8 +4,6 @@
   <unicode hex="1FCD"/>
   <guideline x="276" y="714" angle="0"/>
   <guideline x="273" y="502" angle="0"/>
-  <anchor x="230" y="452" name="_top"/>
-  <anchor x="264" y="714" name="top"/>
   <outline>
     <contour>
       <point x="266" y="686" type="line"/>

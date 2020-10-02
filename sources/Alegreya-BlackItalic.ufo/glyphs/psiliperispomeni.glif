@@ -2,8 +2,6 @@
 <glyph name="psiliperispomeni" format="2">
   <advance width="448"/>
   <unicode hex="1FCF"/>
-  <anchor x="288" y="472" name="_top"/>
-  <anchor x="328" y="884" name="top"/>
   <outline>
     <contour>
       <point x="259" y="496" type="line"/>
