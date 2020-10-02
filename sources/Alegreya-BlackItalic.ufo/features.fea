@@ -1754,6 +1754,9 @@ feature salt {
 feature ss01 {
 # notes:
 # Name: Roman numerals
+featureNames {
+name "Roman numerals";
+};
 sub @siglo1 by @siglo2;
 
 } ss01;
@@ -1762,6 +1765,9 @@ feature ss02 {
 # notes:
 # Name: Arrows, triangles and circles
 # Arrows
+featureNames {
+name "Arrows, triangles and circles";
+};
 sub one by upArrow;
 sub two by northEastArrow;
 sub three by rightArrow;
@@ -1792,6 +1798,9 @@ sub n by leftWhiteTriangle;
 feature ss03 {
 # notes:
 # Name: Foundry icon
+featureNames {
+name "Foundry ico";
+};
 sub h t by foundryicon;
 
 } ss03;
@@ -1801,6 +1810,9 @@ feature ss04 {
 # Name: Dynamic arrows and triangles
 # Second approximation
 # Arrows 2
+featureNames {
+name "Dynamic arrows and triangle";
+};
 sub less hyphen by leftArrow;
 sub hyphen asciicircum by upArrow;
 sub hyphen greater by rightArrow;
@@ -1821,6 +1833,9 @@ feature ss05 {
 # notes:
 # Name: Greek adscript iota"
 # automatic
+featureNames {
+name "Greek adscript iota";
+};
 sub Alphaprosgegrammeni by Alphaprosgegrammeni.ss05;
 sub Alphapsiliprosgegrammeni by Alphapsiliprosgegrammeni.ss05;
 sub Alphadasiaprosgegrammeni by Alphadasiaprosgegrammeni.ss05;
