@@ -4,7 +4,7 @@
   <unicode hex="03AE"/>
   <outline>
     <component base="eta"/>
-    <component base="tonos" xOffset="76"/>
+    <component base="acutecomb.loclGREK" xOffset="76"/>
   </outline>
   <lib>
     <dict>
