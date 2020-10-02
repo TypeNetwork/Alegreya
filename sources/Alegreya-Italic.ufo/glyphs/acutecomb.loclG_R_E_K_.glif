@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.loclGREK" format="2">
+  <anchor x="208" y="452" name="_top"/>
+  <anchor x="254" y="674" name="_topleft"/>
+  <outline>
+    <component base="tonos"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>398</integer>
+    </dict>
+  </lib>
+</glyph>

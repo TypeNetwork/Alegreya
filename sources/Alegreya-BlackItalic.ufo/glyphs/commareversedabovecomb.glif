@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commareversedabovecomb" format="2">
+  <unicode hex="0314"/>
+  <anchor x="231" y="472" name="_top"/>
+  <anchor x="250" y="766" name="top"/>
+  <outline>
+    <component base="dasia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>403</integer>
+    </dict>
+  </lib>
+</glyph>

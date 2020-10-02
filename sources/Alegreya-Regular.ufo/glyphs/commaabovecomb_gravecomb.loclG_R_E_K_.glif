@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb_gravecomb.loclGREK" format="2">
+  <anchor x="226" y="452" name="_top"/>
+  <anchor x="222" y="714" name="top"/>
+  <outline>
+    <component base="psilivaria"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>458</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb" format="2">
+  <unicode hex="0313"/>
+  <anchor x="170" y="472" name="_top"/>
+  <anchor x="202" y="763" name="top"/>
+  <outline>
+    <component base="psili"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>398</integer>
+    </dict>
+  </lib>
+</glyph>

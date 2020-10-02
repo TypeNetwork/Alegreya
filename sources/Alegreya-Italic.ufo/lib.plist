@@ -4356,8 +4356,24 @@
       <string>colonmonetary</string>
       <key>colonsign.BRACKET.75</key>
       <string>colonmonetary</string>
+      <key>commaabovecomb</key>
+      <string>uni0313</string>
+      <key>commaabovecomb_acutecomb.loclGREK</key>
+      <string>uni03130301.loclGREK</string>
+      <key>commaabovecomb_gravecomb.loclGREK</key>
+      <string>uni03130300.loclGREK</string>
+      <key>commaabovecomb_perispomenicomb</key>
+      <string>uni03130342</string>
       <key>commaaccentcomb</key>
       <string>uni0326</string>
+      <key>commareversedabovecomb</key>
+      <string>uni0314</string>
+      <key>commareversedabovecomb_acutecomb.loclGREK</key>
+      <string>uni03140301.loclGREK</string>
+      <key>commareversedabovecomb_gravecomb.loclGREK</key>
+      <string>uni03140300.loclGREK</string>
+      <key>commareversedabovecomb_perispomenicomb</key>
+      <string>uni03140342</string>
       <key>commaturnedabovecomb</key>
       <string>uni0312</string>
       <key>commaturnedmod</key>
@@ -4420,6 +4436,8 @@
       <string>uni03080301</string>
       <key>dieresiscomb_acutecomb.case</key>
       <string>uni03080301.case</string>
+      <key>dieresiscomb_acutecomb.loclGREK</key>
+      <string>uni03080301.loclGREK</string>
       <key>dieresiscomb_caroncomb</key>
       <string>uni0308030C</string>
       <key>dieresiscomb_gravecomb</key>
@@ -4428,6 +4446,8 @@
       <string>uni03080304</string>
       <key>dieresiscomb_macroncomb.case</key>
       <string>uni03080304.case</string>
+      <key>dieresiscomb_perispomenicomb</key>
+      <string>uni03080342</string>
       <key>divisionslash</key>
       <string>uni2215</string>
       <key>dje-cy</key>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commareversedabovecomb_gravecomb.loclGREK" format="2">
+  <anchor x="226" y="472" name="_top"/>
+  <anchor x="223" y="764" name="top"/>
+  <outline>
+    <component base="dasiavaria"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>458</integer>
+    </dict>
+  </lib>
+</glyph>
