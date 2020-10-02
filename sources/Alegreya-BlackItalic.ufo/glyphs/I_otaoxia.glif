@@ -4,7 +4,7 @@
   <unicode hex="1FDB"/>
   <outline>
     <component base="Iota" xOffset="266"/>
-    <component base="oxia" xOffset="-128" yOffset="-112"/>
+    <component base="acutecomb.loclGREK" xOffset="-128" yOffset="-112"/>
   </outline>
   <lib>
     <dict>

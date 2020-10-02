@@ -3,7 +3,7 @@
   <advance width="671"/>
   <outline>
     <component base="omega.sc"/>
-    <component base="oxia" xOffset="183" yOffset="45"/>
+    <component base="acutecomb.loclGREK" xOffset="183" yOffset="45"/>
   </outline>
   <lib>
     <dict>
