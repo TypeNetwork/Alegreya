@@ -3,7 +3,7 @@
   <advance width="523"/>
   <outline>
     <component base="p.sc"/>
-    <component base="psili" xOffset="92" yOffset="31"/>
+    <component base="commaabovecomb" xOffset="92" yOffset="31"/>
   </outline>
   <lib>
     <dict>

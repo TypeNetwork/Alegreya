@@ -3,7 +3,7 @@
   <advance width="488"/>
   <outline>
     <component base="epsilon.sc"/>
-    <component base="dasiavaria" xOffset="50" yOffset="45"/>
+    <component base="commareversedabovecomb_gravecomb.loclGREK" xOffset="50" yOffset="45"/>
   </outline>
   <lib>
     <dict>

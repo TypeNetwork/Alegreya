@@ -3,7 +3,7 @@
   <advance width="671"/>
   <outline>
     <component base="omega.sc"/>
-    <component base="perispomeni" xOffset="154" yOffset="25"/>
+    <component base="perispomenicomb" xOffset="154" yOffset="25"/>
     <component base="ypogegrammenicomb" xOffset="188"/>
   </outline>
   <lib>

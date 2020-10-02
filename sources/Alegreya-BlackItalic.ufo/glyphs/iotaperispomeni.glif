@@ -4,7 +4,7 @@
   <unicode hex="1FD6"/>
   <outline>
     <component base="iota"/>
-    <component base="perispomeni" xOffset="-64"/>
+    <component base="perispomenicomb" xOffset="-64"/>
   </outline>
   <lib>
     <dict>

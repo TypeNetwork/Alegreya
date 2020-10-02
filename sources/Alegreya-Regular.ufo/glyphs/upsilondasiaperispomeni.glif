@@ -4,7 +4,7 @@
   <unicode hex="1F57"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dasiaperispomeni" xOffset="3"/>
+    <component base="commareversedabovecomb_perispomenicomb" xOffset="3"/>
   </outline>
   <lib>
     <dict>

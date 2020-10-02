@@ -4,7 +4,7 @@
   <unicode hex="1F45"/>
   <outline>
     <component base="omicron"/>
-    <component base="dasiaoxia" xOffset="27"/>
+    <component base="commareversedabovecomb_acutecomb.loclGREK" xOffset="27"/>
   </outline>
   <lib>
     <dict>

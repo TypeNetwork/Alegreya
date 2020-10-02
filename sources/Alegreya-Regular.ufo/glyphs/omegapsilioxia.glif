@@ -4,7 +4,7 @@
   <unicode hex="1F64"/>
   <outline>
     <component base="omega"/>
-    <component base="psilioxia" xOffset="104"/>
+    <component base="commaabovecomb_acutecomb.loclGREK" xOffset="104"/>
   </outline>
   <lib>
     <dict>

@@ -4,7 +4,7 @@
   <unicode hex="1F10"/>
   <outline>
     <component base="epsilon"/>
-    <component base="psili" xOffset="28"/>
+    <component base="commaabovecomb" xOffset="28"/>
   </outline>
   <lib>
     <dict>

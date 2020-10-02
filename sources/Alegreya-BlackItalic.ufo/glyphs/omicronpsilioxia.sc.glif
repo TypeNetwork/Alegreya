@@ -3,7 +3,7 @@
   <advance width="536"/>
   <outline>
     <component base="omicron.sc"/>
-    <component base="psilioxia" xOffset="66" yOffset="31"/>
+    <component base="commaabovecomb_acutecomb.loclGREK" xOffset="66" yOffset="31"/>
   </outline>
   <lib>
     <dict>

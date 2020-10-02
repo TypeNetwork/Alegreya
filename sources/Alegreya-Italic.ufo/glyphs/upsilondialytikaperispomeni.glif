@@ -4,7 +4,7 @@
   <unicode hex="1FE7"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dialytikaperispomeni" xOffset="-35"/>
+    <component base="dieresiscomb_perispomenicomb" xOffset="-35"/>
   </outline>
   <lib>
     <dict>

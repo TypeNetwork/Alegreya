@@ -3,7 +3,7 @@
   <advance width="313"/>
   <outline>
     <component base="iota.sc"/>
-    <component base="dasiavaria" xOffset="-37" yOffset="31"/>
+    <component base="commareversedabovecomb_gravecomb.loclGREK" xOffset="-37" yOffset="31"/>
   </outline>
   <lib>
     <dict>

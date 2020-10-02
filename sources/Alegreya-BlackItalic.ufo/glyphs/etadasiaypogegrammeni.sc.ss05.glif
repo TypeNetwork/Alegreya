@@ -3,7 +3,7 @@
   <advance width="917"/>
   <outline>
     <component base="etaypogegrammeni.sc.ss05"/>
-    <component base="dasia" xOffset="104" yOffset="31"/>
+    <component base="commareversedabovecomb" xOffset="104" yOffset="31"/>
   </outline>
   <lib>
     <dict>

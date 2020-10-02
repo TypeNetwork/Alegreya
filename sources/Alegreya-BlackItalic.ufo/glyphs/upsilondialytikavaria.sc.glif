@@ -3,7 +3,7 @@
   <advance width="544"/>
   <outline>
     <component base="upsilon.sc"/>
-    <component base="dialytikavaria" xOffset="56" yOffset="31"/>
+    <component base="dieresis_gravecomb.loclGREK" xOffset="56" yOffset="31"/>
   </outline>
   <lib>
     <dict>

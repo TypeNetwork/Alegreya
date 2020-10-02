@@ -3,7 +3,7 @@
   <advance width="608"/>
   <outline>
     <component base="etaypogegrammeni.sc"/>
-    <component base="dasiaoxia" xOffset="109" yOffset="31"/>
+    <component base="commareversedabovecomb_acutecomb.loclGREK" xOffset="109" yOffset="31"/>
   </outline>
   <lib>
     <dict>

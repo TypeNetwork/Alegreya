@@ -14,7 +14,7 @@
       <point x="242" y="686" type="line"/>
       <point x="305" y="505" type="line"/>
     </contour>
-    <component base="dasia" xOffset="-70" yOffset="-8"/>
+    <component base="commareversedabovecomb" xOffset="-70" yOffset="-8"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,7 @@
   <advance width="921"/>
   <outline>
     <component base="etaypogegrammeni.sc.ss05"/>
-    <component base="psiliperispomeni" xOffset="59" yOffset="45"/>
+    <component base="commaabovecomb_perispomenicomb" xOffset="59" yOffset="45"/>
   </outline>
   <lib>
     <dict>

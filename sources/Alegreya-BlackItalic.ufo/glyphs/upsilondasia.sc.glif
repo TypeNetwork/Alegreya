@@ -3,7 +3,7 @@
   <advance width="544"/>
   <outline>
     <component base="upsilon.sc"/>
-    <component base="dasia" xOffset="55" yOffset="31"/>
+    <component base="commareversedabovecomb" xOffset="55" yOffset="31"/>
   </outline>
   <lib>
     <dict>

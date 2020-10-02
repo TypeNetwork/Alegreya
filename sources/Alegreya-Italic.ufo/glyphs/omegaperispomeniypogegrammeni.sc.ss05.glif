@@ -3,7 +3,7 @@
   <advance width="978"/>
   <outline>
     <component base="omegaypogegrammeni.sc.ss05"/>
-    <component base="perispomeni" xOffset="154" yOffset="25"/>
+    <component base="perispomenicomb" xOffset="154" yOffset="25"/>
   </outline>
   <lib>
     <dict>

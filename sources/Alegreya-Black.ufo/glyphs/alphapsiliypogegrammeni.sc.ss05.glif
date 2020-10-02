@@ -3,7 +3,7 @@
   <advance width="905"/>
   <outline>
     <component base="alphaypogegrammeni.sc.ss05"/>
-    <component base="psili" xOffset="85" yOffset="25"/>
+    <component base="commaabovecomb" xOffset="85" yOffset="25"/>
   </outline>
   <lib>
     <dict>

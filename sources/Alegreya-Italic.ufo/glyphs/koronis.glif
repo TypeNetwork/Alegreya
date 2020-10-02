@@ -3,7 +3,7 @@
   <advance width="401"/>
   <unicode hex="1FBD"/>
   <outline>
-    <component base="psili"/>
+    <component base="commaabovecomb"/>
   </outline>
   <lib>
     <dict>

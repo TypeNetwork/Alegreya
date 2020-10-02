@@ -4,7 +4,7 @@
   <unicode hex="1F90"/>
   <outline>
     <component base="etaypogegrammeni"/>
-    <component base="psili" xOffset="70"/>
+    <component base="commaabovecomb" xOffset="70"/>
   </outline>
   <lib>
     <dict>

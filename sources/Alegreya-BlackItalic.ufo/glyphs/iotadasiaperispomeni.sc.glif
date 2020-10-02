@@ -3,7 +3,7 @@
   <advance width="313"/>
   <outline>
     <component base="iota.sc"/>
-    <component base="dasiaperispomeni" xOffset="-100" yOffset="31"/>
+    <component base="commareversedabovecomb_perispomenicomb" xOffset="-100" yOffset="31"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,7 @@
   <advance width="313"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dialytikaperispomeni" xOffset="-97" yOffset="31"/>
+    <component base="dieresiscomb_perispomenicomb" xOffset="-97" yOffset="31"/>
   </outline>
   <lib>
     <dict>

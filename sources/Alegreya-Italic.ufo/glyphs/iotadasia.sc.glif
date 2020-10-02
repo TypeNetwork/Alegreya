@@ -3,7 +3,7 @@
   <advance width="307"/>
   <outline>
     <component base="iota.sc"/>
-    <component base="dasia" xOffset="-66" yOffset="45"/>
+    <component base="commareversedabovecomb" xOffset="-66" yOffset="45"/>
   </outline>
   <lib>
     <dict>

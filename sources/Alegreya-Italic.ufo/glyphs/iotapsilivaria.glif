@@ -4,7 +4,7 @@
   <unicode hex="1F32"/>
   <outline>
     <component base="iota"/>
-    <component base="psilivaria" xOffset="-85"/>
+    <component base="commaabovecomb_gravecomb.loclGREK" xOffset="-85"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,7 @@
   <advance width="322"/>
   <outline>
     <component base="iota.sc"/>
-    <component base="psili" xOffset="-9" yOffset="31"/>
+    <component base="commaabovecomb" xOffset="-9" yOffset="31"/>
   </outline>
   <lib>
     <dict>

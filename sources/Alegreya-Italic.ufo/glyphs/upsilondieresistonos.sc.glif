@@ -3,7 +3,7 @@
   <advance width="466"/>
   <outline>
     <component base="upsilon.sc"/>
-    <component base="dieresistonos" xOffset="19" yOffset="45"/>
+    <component base="dieresiscomb_acutecomb.loclGREK" xOffset="19" yOffset="45"/>
   </outline>
   <lib>
     <dict>

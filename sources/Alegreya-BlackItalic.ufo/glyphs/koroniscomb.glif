@@ -3,7 +3,7 @@
   <unicode hex="0343"/>
   <anchor x="147" y="472" name="_top"/>
   <outline>
-    <component base="psili"/>
+    <component base="commaabovecomb"/>
   </outline>
   <lib>
     <dict>
