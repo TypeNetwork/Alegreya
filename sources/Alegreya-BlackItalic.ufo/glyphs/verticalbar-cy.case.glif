@@ -8,10 +8,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

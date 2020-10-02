@@ -6,13 +6,4 @@
     <component base="macroncomb" xOffset="21" yOffset="130"/>
     <component base="gravecomb.case" xOffset="54" yOffset="156"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

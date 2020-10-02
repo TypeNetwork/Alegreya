@@ -14,11 +14,6 @@
       <string>=macroncomb</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>398</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.04,0.57,0.04,1</string>
     </dict>
