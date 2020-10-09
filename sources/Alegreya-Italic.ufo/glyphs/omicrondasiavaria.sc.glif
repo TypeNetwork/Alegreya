@@ -3,7 +3,7 @@
   <advance width="564"/>
   <outline>
     <component base="omicron.sc"/>
-    <component base="dasiavaria" xOffset="88" yOffset="45"/>
+    <component base="commareversedabovecomb_gravecomb.loclGREK" xOffset="88" yOffset="45"/>
   </outline>
   <lib>
     <dict>

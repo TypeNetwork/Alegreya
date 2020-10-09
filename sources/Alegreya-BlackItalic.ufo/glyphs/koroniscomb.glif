@@ -3,7 +3,7 @@
   <unicode hex="0343"/>
   <anchor x="147" y="472" name="_top"/>
   <outline>
-    <component base="psili"/>
+    <component base="commaabovecomb"/>
   </outline>
   <lib>
     <dict>
@@ -13,10 +13,6 @@
       <string>=quoteright</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>395</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

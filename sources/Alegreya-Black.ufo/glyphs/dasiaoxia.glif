@@ -2,8 +2,6 @@
 <glyph name="dasiaoxia" format="2">
   <advance width="458"/>
   <unicode hex="1FDE"/>
-  <anchor x="226" y="472" name="_top"/>
-  <anchor x="249" y="765" name="top"/>
   <outline>
     <contour>
       <point x="327" y="508" type="line"/>
@@ -16,7 +14,7 @@
       <point x="280" y="605"/>
       <point x="266" y="535" type="curve"/>
     </contour>
-    <component base="dasia" xOffset="-36" yOffset="-5"/>
+    <component base="commareversedabovecomb" xOffset="-36" yOffset="-5"/>
   </outline>
   <lib>
     <dict>

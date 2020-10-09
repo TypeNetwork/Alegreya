@@ -2,7 +2,6 @@
 <glyph name="Cheverticalstroke-cy" format="2">
   <advance width="595"/>
   <unicode hex="04B8"/>
-  <anchor x="281" y="323" name="_center"/>
   <outline>
     <contour>
       <point x="512" y="-3" type="curve"/>

@@ -3,7 +3,7 @@
   <advance width="671"/>
   <outline>
     <component base="omega.sc"/>
-    <component base="varia" xOffset="159" yOffset="45"/>
+    <component base="gravecomb.loclGREK" xOffset="159" yOffset="45"/>
     <component base="ypogegrammenicomb" xOffset="188"/>
   </outline>
   <lib>

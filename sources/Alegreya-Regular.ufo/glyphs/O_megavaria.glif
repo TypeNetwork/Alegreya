@@ -4,7 +4,7 @@
   <unicode hex="1FFA"/>
   <outline>
     <component base="Omega" xOffset="76"/>
-    <component base="varia" xOffset="-64" yOffset="-54"/>
+    <component base="gravecomb.loclGREK" xOffset="-64" yOffset="-54"/>
   </outline>
   <lib>
     <dict>
@@ -12,11 +12,6 @@
       <string>=Omegatonos</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>Omega</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

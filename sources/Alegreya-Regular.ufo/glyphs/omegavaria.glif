@@ -4,7 +4,7 @@
   <unicode hex="1F7C"/>
   <outline>
     <component base="omega"/>
-    <component base="varia" xOffset="128"/>
+    <component base="gravecomb.loclGREK" xOffset="128"/>
   </outline>
   <lib>
     <dict>

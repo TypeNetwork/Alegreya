@@ -2,8 +2,6 @@
 <glyph name="dasia" format="2">
   <advance width="398"/>
   <unicode hex="1FFE"/>
-  <anchor x="180" y="472" name="_top"/>
-  <anchor x="186" y="763" name="top"/>
   <outline>
     <contour>
       <point x="221" y="506" type="curve"/>

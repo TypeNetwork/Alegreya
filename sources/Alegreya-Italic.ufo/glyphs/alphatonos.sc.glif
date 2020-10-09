@@ -3,7 +3,7 @@
   <advance width="485"/>
   <outline>
     <component base="alpha.sc"/>
-    <component base="tonos" xOffset="47" yOffset="45"/>
+    <component base="acutecomb.loclGREK" xOffset="47" yOffset="45"/>
   </outline>
   <lib>
     <dict>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kaverticalstroke-cy.sc" format="2">
   <advance width="651"/>
-  <anchor x="317" y="253" name="_center"/>
   <outline>
     <contour>
       <point x="499" y="-13" type="curve"/>

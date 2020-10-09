@@ -2,7 +2,6 @@
 <glyph name="perispomeni" format="2">
   <advance width="347"/>
   <unicode hex="1FC0"/>
-  <anchor x="218" y="472" name="_top"/>
   <outline>
     <contour>
       <point x="103" y="525" type="line"/>

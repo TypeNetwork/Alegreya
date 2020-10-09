@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commareversedabovecomb_acutecomb.loclGREK" format="2">
+  <anchor x="226" y="472" name="_top"/>
+  <anchor x="308" y="767" name="top"/>
+  <outline>
+    <component base="dasiaoxia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>404</integer>
+    </dict>
+  </lib>
+</glyph>

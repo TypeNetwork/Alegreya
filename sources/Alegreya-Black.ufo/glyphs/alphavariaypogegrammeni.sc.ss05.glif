@@ -3,7 +3,7 @@
   <advance width="905"/>
   <outline>
     <component base="alphaypogegrammeni.sc.ss05"/>
-    <component base="varia" xOffset="58" yOffset="25"/>
+    <component base="gravecomb.loclGREK" xOffset="58" yOffset="25"/>
   </outline>
   <lib>
     <dict>

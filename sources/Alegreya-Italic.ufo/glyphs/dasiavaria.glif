@@ -2,8 +2,6 @@
 <glyph name="dasiavaria" format="2">
   <advance width="422"/>
   <unicode hex="1FDD"/>
-  <anchor x="225" y="452" name="_top"/>
-  <anchor x="235" y="714" name="top"/>
   <outline>
     <contour>
       <point x="314" y="502" type="line"/>
@@ -16,7 +14,7 @@
       <point x="242" y="686" type="line"/>
       <point x="305" y="505" type="line"/>
     </contour>
-    <component base="dasia" xOffset="-70" yOffset="-8"/>
+    <component base="commareversedabovecomb" xOffset="-70" yOffset="-8"/>
   </outline>
   <lib>
     <dict>

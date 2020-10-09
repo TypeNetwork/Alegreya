@@ -3,7 +3,7 @@
   <advance width="485"/>
   <outline>
     <component base="alpha.sc"/>
-    <component base="dasiaperispomeni" xOffset="-26" yOffset="45"/>
+    <component base="commareversedabovecomb_perispomenicomb" xOffset="-26" yOffset="45"/>
   </outline>
   <lib>
     <dict>

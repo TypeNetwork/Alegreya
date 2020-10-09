@@ -3,7 +3,7 @@
   <advance width="551"/>
   <outline>
     <component base="upsilon.sc"/>
-    <component base="dialytikaperispomeni" xOffset="50" yOffset="31"/>
+    <component base="dieresiscomb_perispomenicomb" xOffset="50" yOffset="31"/>
   </outline>
   <lib>
     <dict>

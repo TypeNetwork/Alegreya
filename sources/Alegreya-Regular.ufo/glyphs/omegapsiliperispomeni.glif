@@ -4,7 +4,7 @@
   <unicode hex="1F66"/>
   <outline>
     <component base="omega"/>
-    <component base="psiliperispomeni" xOffset="104"/>
+    <component base="commaabovecomb_perispomenicomb" xOffset="104"/>
   </outline>
   <lib>
     <dict>

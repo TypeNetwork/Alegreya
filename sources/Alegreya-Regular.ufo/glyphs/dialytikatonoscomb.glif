@@ -2,7 +2,7 @@
 <glyph name="dialytikatonoscomb" format="2">
   <unicode hex="0344"/>
   <outline>
-    <component base="dieresistonos"/>
+    <component base="dieresiscomb_acutecomb.loclGREK"/>
   </outline>
   <lib>
     <dict>

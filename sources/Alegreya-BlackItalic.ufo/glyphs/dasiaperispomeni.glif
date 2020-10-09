@@ -2,8 +2,6 @@
 <glyph name="dasiaperispomeni" format="2">
   <advance width="448"/>
   <unicode hex="1FDF"/>
-  <anchor x="288" y="472" name="_top"/>
-  <anchor x="318" y="884" name="top"/>
   <outline>
     <contour>
       <point x="313" y="495" type="curve"/>

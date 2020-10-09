@@ -4,7 +4,7 @@
   <unicode hex="1F83"/>
   <outline>
     <component base="alphaypogegrammeni"/>
-    <component base="dasiavaria" xOffset="65"/>
+    <component base="commareversedabovecomb_gravecomb.loclGREK" xOffset="65"/>
   </outline>
   <lib>
     <dict>

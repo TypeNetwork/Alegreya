@@ -8,15 +8,4 @@
     <component base="macroncomb"/>
     <component base="acutecomb.case" xOffset="-40" yOffset="-24"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

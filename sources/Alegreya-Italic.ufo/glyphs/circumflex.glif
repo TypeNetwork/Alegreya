@@ -3,14 +3,28 @@
   <advance width="382"/>
   <unicode hex="02C6"/>
   <outline>
-    <component base="circumflexcomb"/>
+    <contour>
+      <point x="91" y="530" type="curve"/>
+      <point x="103" y="508" type="line"/>
+      <point x="112" y="507" type="line"/>
+      <point x="112" y="507"/>
+      <point x="241" y="604"/>
+      <point x="241" y="604" type="curve"/>
+      <point x="241" y="604"/>
+      <point x="346" y="507"/>
+      <point x="346" y="507" type="curve"/>
+      <point x="355" y="508" type="line"/>
+      <point x="372" y="530" type="line"/>
+      <point x="372" y="530"/>
+      <point x="257" y="683"/>
+      <point x="257" y="683" type="curve"/>
+      <point x="243" y="683" type="line"/>
+      <point x="243" y="683"/>
+      <point x="91" y="530"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.75,0.75,0.75,1</string>
     </dict>

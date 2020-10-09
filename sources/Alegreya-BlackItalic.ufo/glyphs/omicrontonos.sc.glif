@@ -3,7 +3,7 @@
   <advance width="536"/>
   <outline>
     <component base="omicron.sc"/>
-    <component base="tonos" xOffset="88" yOffset="31"/>
+    <component base="acutecomb.loclGREK" xOffset="88" yOffset="31"/>
   </outline>
   <lib>
     <dict>

@@ -3,7 +3,7 @@
   <advance width="921"/>
   <outline>
     <component base="etaypogegrammeni.sc.ss05"/>
-    <component base="psilioxia" xOffset="108" yOffset="45"/>
+    <component base="commaabovecomb_acutecomb.loclGREK" xOffset="108" yOffset="45"/>
   </outline>
   <lib>
     <dict>

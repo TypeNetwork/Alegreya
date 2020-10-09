@@ -4,7 +4,7 @@
   <unicode hex="1F78"/>
   <outline>
     <component base="omicron"/>
-    <component base="varia" xOffset="33"/>
+    <component base="gravecomb.loclGREK" xOffset="33"/>
   </outline>
   <lib>
     <dict>

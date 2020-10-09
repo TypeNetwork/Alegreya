@@ -5,7 +5,7 @@
   <guideline x="258" y="487" angle="0"/>
   <outline>
     <component base="iota"/>
-    <component base="psiliperispomeni" xOffset="-113"/>
+    <component base="commaabovecomb_perispomenicomb" xOffset="-113"/>
   </outline>
   <lib>
     <dict>

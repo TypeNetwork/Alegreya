@@ -3,7 +3,7 @@
   <advance width="516"/>
   <outline>
     <component base="epsilon.sc"/>
-    <component base="dasia" xOffset="78" yOffset="31"/>
+    <component base="commareversedabovecomb" xOffset="78" yOffset="31"/>
   </outline>
   <lib>
     <dict>

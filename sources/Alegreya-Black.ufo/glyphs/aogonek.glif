@@ -54,11 +54,11 @@
       <point x="238" y="34"/>
       <point x="269" y="66" type="curve"/>
       <point x="281" y="61" type="line"/>
-      <point x="285.015" y="29.547"/>
-      <point x="304.705" y="7.5"/>
-      <point x="337.071" y="-3.645" type="curve"/>
-      <point x="271.37" y="-81.903"/>
-      <point x="259" y="-105.586"/>
+      <point x="285" y="30"/>
+      <point x="305" y="8"/>
+      <point x="337" y="-4" type="curve"/>
+      <point x="271" y="-82"/>
+      <point x="259" y="-106"/>
       <point x="259" y="-138" type="curve" smooth="yes"/>
       <point x="259" y="-199"/>
       <point x="311" y="-242"/>

@@ -2,7 +2,6 @@
 <glyph name="dialytikavaria" format="2">
   <advance width="398"/>
   <unicode hex="1FED"/>
-  <anchor x="180" y="472" name="_top"/>
   <outline>
     <contour>
       <point x="219" y="522" type="line"/>

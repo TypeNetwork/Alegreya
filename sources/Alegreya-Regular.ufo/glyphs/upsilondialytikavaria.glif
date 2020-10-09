@@ -4,7 +4,7 @@
   <unicode hex="1FE2"/>
   <outline>
     <component base="upsilon"/>
-    <component base="dialytikavaria" xOffset="30"/>
+    <component base="dieresis_gravecomb.loclGREK" xOffset="30"/>
   </outline>
   <lib>
     <dict>

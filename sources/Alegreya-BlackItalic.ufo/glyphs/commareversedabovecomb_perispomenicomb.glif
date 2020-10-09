@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commareversedabovecomb_perispomenicomb" format="2">
+  <anchor x="288" y="472" name="_top"/>
+  <anchor x="318" y="884" name="top"/>
+  <outline>
+    <component base="dasiaperispomeni"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>448</integer>
+    </dict>
+  </lib>
+</glyph>

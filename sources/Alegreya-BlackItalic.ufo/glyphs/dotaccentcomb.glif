@@ -4,20 +4,7 @@
   <anchor x="221" y="472" name="_top"/>
   <anchor x="247" y="652" name="top"/>
   <outline>
-    <contour>
-      <point x="227" y="529" type="curve" smooth="yes"/>
-      <point x="295" y="529"/>
-      <point x="341" y="576"/>
-      <point x="341" y="647" type="curve" smooth="yes"/>
-      <point x="341" y="698"/>
-      <point x="312" y="728"/>
-      <point x="259" y="728" type="curve" smooth="yes"/>
-      <point x="190" y="728"/>
-      <point x="144" y="681"/>
-      <point x="144" y="609" type="curve" smooth="yes"/>
-      <point x="144" y="558"/>
-      <point x="173" y="529"/>
-    </contour>
+    <component base="dotaccent"/>
   </outline>
   <lib>
     <dict>

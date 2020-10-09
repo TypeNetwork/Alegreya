@@ -3,7 +3,7 @@
   <advance width="978"/>
   <outline>
     <component base="omegaypogegrammeni.sc.ss05"/>
-    <component base="psilivaria" xOffset="151" yOffset="45"/>
+    <component base="commaabovecomb_gravecomb.loclGREK" xOffset="151" yOffset="45"/>
   </outline>
   <lib>
     <dict>

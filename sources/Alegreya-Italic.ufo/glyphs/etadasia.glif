@@ -4,7 +4,7 @@
   <unicode hex="1F21"/>
   <outline>
     <component base="eta"/>
-    <component base="dasia" xOffset="58"/>
+    <component base="commareversedabovecomb" xOffset="58"/>
   </outline>
   <lib>
     <dict>

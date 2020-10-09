@@ -2,7 +2,6 @@
 <glyph name="dialytikaoxia" format="2">
   <advance width="399"/>
   <unicode hex="1FEE"/>
-  <anchor x="230" y="472" name="_top"/>
   <outline>
     <contour>
       <point x="428" y="562" type="curve" smooth="yes"/>

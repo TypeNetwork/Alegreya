@@ -4,32 +4,7 @@
   <anchor x="174" y="452" name="_top"/>
   <anchor x="205" y="705" name="top"/>
   <outline>
-    <contour>
-      <point x="250" y="655" type="curve"/>
-      <point x="252" y="664" type="line"/>
-      <point x="219" y="702" type="line"/>
-      <point x="210" y="705" type="line"/>
-      <point x="210" y="705"/>
-      <point x="136" y="622"/>
-      <point x="70" y="554" type="curve"/>
-      <point x="86" y="536" type="line"/>
-      <point x="95" y="534" type="line"/>
-      <point x="174" y="600"/>
-      <point x="250" y="655"/>
-    </contour>
-    <contour>
-      <point x="378" y="655" type="curve"/>
-      <point x="380" y="664" type="line"/>
-      <point x="347" y="702" type="line"/>
-      <point x="338" y="705" type="line"/>
-      <point x="338" y="705"/>
-      <point x="264" y="622"/>
-      <point x="198" y="554" type="curve"/>
-      <point x="214" y="536" type="line"/>
-      <point x="223" y="534" type="line"/>
-      <point x="302" y="600"/>
-      <point x="378" y="655"/>
-    </contour>
+    <component base="hungarumlaut"/>
   </outline>
   <lib>
     <dict>
